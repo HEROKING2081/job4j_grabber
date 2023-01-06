@@ -39,7 +39,22 @@ public class HabrCareerParse {
                 System.out.println("Дата вакансии: " + dataTime);
                 LocalDateTime localDateTime = DATE_TIME_PARSER.parse(dataTime);
                 System.out.println("Дата вакансии в формате для LocalDataTime: " + localDateTime);
+                String vacancyDescription = retrieveDescription(link);
+                System.out.println("Детальное описание вакансии: \n" + vacancyDescription);
             });
         }
+    }
+
+    private static String retrieveDescription(String link) {
+        Connection connection = Jsoup.connect(link);
+        String text = null;
+        try {
+            Document document = connection.get();
+            Element descriptionElement = document.select(".style-ugc").first();
+            text = Objects.requireNonNull(descriptionElement).text();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return text;
     }
 }
