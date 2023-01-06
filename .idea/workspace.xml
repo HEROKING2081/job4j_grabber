@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="2. Парсинг HTML страницы. [#260358 #163688]">
-      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/utils/DateTimeParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/utils/HabrCareerDateTimeParser.java" afterDir="false" />
+    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="2.1.1. Парсинг https://career.habr.com/vacancies/java_developer?page=1 [#285210 #163690]">
+      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/Post.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ru/job4j/grabber/HabrCareerParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/HabrCareerParse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673001104948</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2.1.1. Парсинг https://career.habr.com/vacancies/java_developer?page=1 [#285210 #163690]">
+      <created>1673003042566</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673003042566</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,7 +163,8 @@
     <MESSAGE value="0. Техническое задание. Агрегатор Java Вакансий. [#260357 #162850]" />
     <MESSAGE value="1.1. Job c параметрами [#260360 #163687]" />
     <MESSAGE value="2. Парсинг HTML страницы. [#260358 #163688]" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. Парсинг HTML страницы. [#260358 #163688]" />
+    <MESSAGE value="2.1.1. Парсинг https://career.habr.com/vacancies/java_developer?page=1 [#285210 #163690]" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.1.1. Парсинг https://career.habr.com/vacancies/java_developer?page=1 [#285210 #163690]" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
