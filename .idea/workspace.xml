@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="1.1. Job c параметрами [#260360 #163687]">
-      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/HabrCareerParse.java" afterDir="false" />
+    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="2. Парсинг HTML страницы. [#260358 #163688]">
+      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/utils/DateTimeParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/utils/HabrCareerDateTimeParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ru/job4j/grabber/HabrCareerParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/HabrCareerParse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672919122387</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2. Парсинг HTML страницы. [#260358 #163688]">
+      <created>1673001042687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673001042687</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2. Парсинг HTML страницы. [#260358 #163688]">
+      <created>1673001104948</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673001104948</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,7 +158,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0. Техническое задание. Агрегатор Java Вакансий. [#260357 #162850]" />
     <MESSAGE value="1.1. Job c параметрами [#260360 #163687]" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1. Job c параметрами [#260360 #163687]" />
+    <MESSAGE value="2. Парсинг HTML страницы. [#260358 #163688]" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. Парсинг HTML страницы. [#260358 #163688]" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
