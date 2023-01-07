@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="2.4. HabrCareerParse [#285213 #164418]">
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/Grab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -187,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673081923232</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2.4. HabrCareerParse [#285213 #164418]">
+      <created>1673082596927</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673082596927</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
