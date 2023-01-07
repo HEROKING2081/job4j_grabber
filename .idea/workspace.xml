@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="3. Архитектура проекта - Аргегатор Java Вакансий [#260359 #164419]">
-      <change afterPath="$PROJECT_DIR$/src/main/sql/posr_schema.sql" afterDir="false" />
+    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="4. Схема таблицы Post [#1731 #164421]">
+      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/PsqlStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ru/job4j/grabber/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/Post.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -201,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673083396156</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="4. Схема таблицы Post [#1731 #164421]">
+      <created>1673083734610</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673083734610</updated>
+    </task>
+    <task id="LOCAL-00017" summary="4. Схема таблицы Post [#1731 #164421]">
+      <created>1673084147764</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673084147764</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,7 +240,8 @@
     <MESSAGE value="2.2. Модель данных - Post. [#285211 #163691]" />
     <MESSAGE value="2.4. HabrCareerParse [#285213 #164418]" />
     <MESSAGE value="3. Архитектура проекта - Аргегатор Java Вакансий [#260359 #164419]" />
-    <option name="LAST_COMMIT_MESSAGE" value="3. Архитектура проекта - Аргегатор Java Вакансий [#260359 #164419]" />
+    <MESSAGE value="4. Схема таблицы Post [#1731 #164421]" />
+    <option name="LAST_COMMIT_MESSAGE" value="4. Схема таблицы Post [#1731 #164421]" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
