@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="2.2. Модель данных - Post. [#285211 #163691]">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ru/job4j/grabber/HabrCareerParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/HabrCareerParse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" afterDir="false" />
+    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="2.3. Загрузка деталей поста. [#285212 #163692]">
+      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/Parse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673007091465</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2.3. Загрузка деталей поста. [#285212 #163692]">
+      <created>1673013634718</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673013634718</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2.3. Загрузка деталей поста. [#285212 #163692]">
+      <created>1673013688444</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673013688444</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +192,8 @@
     <MESSAGE value="2. Парсинг HTML страницы. [#260358 #163688]" />
     <MESSAGE value="2.1.1. Парсинг https://career.habr.com/vacancies/java_developer?page=1 [#285210 #163690]" />
     <MESSAGE value="2.2. Модель данных - Post. [#285211 #163691]" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.2. Модель данных - Post. [#285211 #163691]" />
+    <MESSAGE value="2.3. Загрузка деталей поста. [#285212 #163692]" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.3. Загрузка деталей поста. [#285212 #163692]" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
