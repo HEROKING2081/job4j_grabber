@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="5. PsqlStore [#285209 #165212]">
+      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/Grabber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +54,26 @@
       <recent name="C:\projects\job4j_grabber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HabrCareerParse">
+  <component name="RunManager" selected="Application.Grabber">
     <configuration name="AlertRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.job4j.quartz.AlertRabbit" />
       <module name="job4j_design" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.job4j.quartz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grabber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.grabber.Grabber" />
+      <module name="job4j_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.job4j.grabber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Grabber" />
         <item itemvalue="Application.HabrCareerParse" />
         <item itemvalue="Application.AlertRabbit" />
       </list>
@@ -222,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673090221758</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="5. PsqlStore [#285209 #165212]">
+      <created>1673936009934</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673936009934</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
