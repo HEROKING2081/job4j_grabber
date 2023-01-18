@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="5. PsqlStore [#285209 #165212]">
-      <change afterPath="$PROJECT_DIR$/src/main/ru/job4j/grabber/Grabber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f23f2eb4-a78b-4a6a-b985-bc06dcc952fa" name="Changes" comment="6. Grabber. [#289477 #165441]">
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/job4j/grabber/HabrCareerParse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673936009934</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="6. Grabber. [#289477 #165441]">
+      <created>1673937765663</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673937765663</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +275,8 @@
     <MESSAGE value="3. Архитектура проекта - Аргегатор Java Вакансий [#260359 #164419]" />
     <MESSAGE value="4. Схема таблицы Post [#1731 #164421]" />
     <MESSAGE value="5. PsqlStore [#285209 #165212]" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. PsqlStore [#285209 #165212]" />
+    <MESSAGE value="6. Grabber. [#289477 #165441]" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. Grabber. [#289477 #165441]" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
